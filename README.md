@@ -52,3 +52,4 @@ In addition to the above experiments, two ablation experiments concerning more p
 Please cite the following paper if you use the code or feel it useful:
 
 Yu Long, Pengjie Tang, Hanli Wang, and Jian Yu, Improving Reasoning with Contrastive VisualInformation for Visual Question Answering, Electronics Letters, accepted, 2021.
+
